@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/sole.png" width="80" alt="Sole">
+  <img src="assets/luna.png" width="80" alt="Luna">
+</p>
+
 # Arcangelo Massari
 
 PhD candidate in Digital Humanities at the University of Bologna and KU Leuven. My research focuses on creating interfaces that simplify interaction with Semantic Web data, with provenance and change tracking.
