@@ -25,9 +25,9 @@ Projects developed within <a href="https://opencitations.net/" target="_blank">O
 
 ## Published apps
 
-| App | Description | Technologies | |
-|-----|-------------|--------------|--|
-| <a href="https://github.com/arcangelo7/astrogods-app" target="_blank">AstroGods</a> | In-depth and rigorous astrological interpretations for birth charts, synastry, and transits (<a href="https://astrogods.it" target="_blank">astrogods.it</a>) | <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"></a> <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"></a> | <a href="https://flathub.org/apps/it.astrogods.AstroGods" target="_blank"><img src="https://flathub.org/api/badge?svg&locale=en" height="24" alt="Download on Flathub"></a> |
+| App | Description | Technologies | Download |
+|-----|-------------|--------------|----------|
+| <a href="https://github.com/arcangelo7/astrogods-app" target="_blank">AstroGods</a> | In-depth and rigorous astrological interpretations for birth charts, synastry, and transits (<a href="https://astrogods.it" target="_blank">astrogods.it</a>) | <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"></a> <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"></a> | <a href="https://play.google.com/store/apps/details?id=com.astrogods.app" target="_blank"><img src="https://img.shields.io/badge/-_-414141?style=flat&logo=googleplay&logoColor=white" alt="Google Play"></a> <a href="https://flathub.org/apps/it.astrogods.AstroGods" target="_blank"><img src="https://img.shields.io/badge/-_-4A86CF?style=flat&logo=flathub&logoColor=white" alt="Flathub"></a> <a href="https://snapcraft.io/astrogods" target="_blank"><img src="https://img.shields.io/badge/-_-82BEA0?style=flat&logo=snapcraft&logoColor=white" alt="Snap"></a> <a href="https://apps.microsoft.com/detail/9mttm2qdm94v" target="_blank"><img src="https://img.shields.io/badge/MS-0078D4?style=flat" alt="Microsoft Store"></a> |
 
 ## Personal projects
 
@@ -61,9 +61,9 @@ Progetti sviluppati all'interno di <a href="https://opencitations.net/" target="
 
 ## App pubblicate
 
-| App | Descrizione | Tecnologie | |
-|-----|-------------|------------|--|
-| <a href="https://github.com/arcangelo7/astrogods-app" target="_blank">AstroGods</a> | Interpretazioni astrologiche approfondite e rigorose per tema natale, sinastria e transiti (<a href="https://astrogods.it" target="_blank">astrogods.it</a>) | <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"></a> <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"></a> | <a href="https://flathub.org/apps/it.astrogods.AstroGods" target="_blank"><img src="https://flathub.org/api/badge?svg&locale=it" height="24" alt="Scarica da Flathub"></a> |
+| App | Descrizione | Tecnologie | Download |
+|-----|-------------|------------|----------|
+| <a href="https://github.com/arcangelo7/astrogods-app" target="_blank">AstroGods</a> | Interpretazioni astrologiche approfondite e rigorose per tema natale, sinastria e transiti (<a href="https://astrogods.it" target="_blank">astrogods.it</a>) | <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"></a> <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"></a> | <a href="https://play.google.com/store/apps/details?id=com.astrogods.app" target="_blank"><img src="https://img.shields.io/badge/-_-414141?style=flat&logo=googleplay&logoColor=white" alt="Google Play"></a> <a href="https://flathub.org/apps/it.astrogods.AstroGods" target="_blank"><img src="https://img.shields.io/badge/-_-4A86CF?style=flat&logo=flathub&logoColor=white" alt="Flathub"></a> <a href="https://snapcraft.io/astrogods" target="_blank"><img src="https://img.shields.io/badge/-_-82BEA0?style=flat&logo=snapcraft&logoColor=white" alt="Snap"></a> <a href="https://apps.microsoft.com/detail/9mttm2qdm94v" target="_blank"><img src="https://img.shields.io/badge/MS-0078D4?style=flat" alt="Microsoft Store"></a> |
 
 ## Progetti personali
 
