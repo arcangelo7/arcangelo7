@@ -5,7 +5,7 @@
 
 # Arcangelo Massari
 
-Postdoctoral researcher at the University of Bologna, working on Semantic Web tools for cultural heritage and open scholarship. I did my PhD jointly at Bologna and KU Leuven, where I built HERITRACE, a system for curating knowledge graphs with full provenance and change tracking. These days I split my time between the GRAPHIA project (Horizon Europe), which aims to unify fragmented data across the social sciences and humanities, and OpenCitations, where we work on making scholarly citation data open and freely reusable.
+Postdoctoral researcher at the University of Bologna, working on Semantic Web tools for cultural heritage and open scholarship. I did my PhD jointly at Bologna and KU Leuven, where I built HERITRACE, a system for curating knowledge graphs with full provenance and change tracking. These days I split my time between the GRAPHIA project (Horizon Europe), which aims to unify fragmented data across the social sciences and humanities, and OpenCitations, where we work on making scholarly citation and bibliographic data open and freely reusable.
 
 <a href="https://arcangelo7.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-arcangelo7.github.io-blue?style=flat" alt="Portfolio"></a>
 <a href="https://orcid.org/0000-0002-8420-0696" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0002--8420--0696-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
