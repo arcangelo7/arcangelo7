@@ -23,12 +23,6 @@ Projects developed within <a href="https://opencitations.net/" target="_blank">O
 | <a href="https://github.com/opencitations/time-agnostic-library" target="_blank">time-agnostic-library</a> | Time-travel queries on RDF datasets with provenance and change tracking | <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a> <a href="https://www.w3.org/TR/sparql11-query/" target="_blank"><img src="https://img.shields.io/badge/-SPARQL-0C479D?style=flat&logo=w3c&logoColor=white" alt="SPARQL"></a> |
 | <a href="https://github.com/opencitations/crowdsourcing" target="_blank">crowdsourcing</a> | GitHub-based workflow for citation and bibliographic metadata deposit and validation | <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a> |
 
-## Published apps
-
-| App | Description | Technologies | Download |
-|-----|-------------|--------------|----------|
-| <a href="https://github.com/arcangelo7/astrogods-app" target="_blank">AstroGods</a> | In-depth and rigorous astrological interpretations for birth charts, synastry, and transits (<a href="https://astrogods.it" target="_blank">astrogods.it</a>) | <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"></a> <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"></a> | <a href="https://play.google.com/store/apps/details?id=com.astrogods.app" target="_blank"><img src="https://img.shields.io/badge/-_-414141?style=flat&logo=googleplay&logoColor=white" alt="Google Play"></a> <a href="https://flathub.org/apps/it.astrogods.AstroGods" target="_blank"><img src="https://img.shields.io/badge/-_-4A86CF?style=flat&logo=flathub&logoColor=white" alt="Flathub"></a> <a href="https://snapcraft.io/astrogods" target="_blank"><img src="https://img.shields.io/badge/-_-82BEA0?style=flat&logo=snapcraft&logoColor=white" alt="Snap"></a> <a href="https://apps.microsoft.com/detail/9mttm2qdm94v" target="_blank"><img src="https://img.shields.io/badge/MS-0078D4?style=flat" alt="Microsoft Store"></a> |
-
 ## Personal projects
 
 | Project | Description | Technologies |
